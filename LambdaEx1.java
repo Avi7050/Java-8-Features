@@ -1,3 +1,4 @@
+@FunctionalInterface
 interface Greeting{
     void greet();
 }
